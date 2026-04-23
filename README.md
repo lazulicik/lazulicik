@@ -12,7 +12,7 @@ Ben **Memet**, 25 yaşındayım ve yazılım geliştirme alanında kendimi süre
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
+![PhP](https://img.shields.io/badge/php-4479A1?style=flat&logo=php&logoColor=white)
 ### 📊 GitHub İstatistiklerim:
 ![Lazulicik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazulicik&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
